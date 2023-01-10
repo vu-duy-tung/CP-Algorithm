@@ -7,11 +7,11 @@ CP is just like doing exercise for my brain.
 Here is place where I store all cp algorithms that I've learned and will learn.
 
 ## Table of contents
-- [Data Structure]
-- [Dynamic Programming]
-- [Graph]
-- [Greedy]
-- [Game Theory]
-- [String Processing]
-- [Math]
-- [Geometry]
+- [Data Structure]()
+- [Dynamic Programming]()
+- [Graph](/graph)
+- [Greedy]()
+- [Game Theory]()
+- [String Processing](/String-Processing)
+- [Math]()
+- [Geometry]()
