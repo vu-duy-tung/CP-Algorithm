@@ -1,4 +1,4 @@
-# CP-Algorithm
+# CP-Algorithm (updating)
 
 ## Description
 Competitive Programming is an "useless" activity as many people said. 
